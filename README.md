@@ -18,6 +18,10 @@ It is styled using a modern, cozy dark mode palette (`#0f172a` midnight navy and
 * **High-Resolution PNG Export:** Click **💾 Save PNG** to download a crisp image of your flowchart with a matching dark background background, ready to use in your presentations or documentation.
 * **Typo Protection:** If there is a formatting or syntax layout issue in your Mermaid string, the compiler catches it gracefully behind the scenes rather than breaking the UI.
 
+
+
+**Some features are yet in development,stay tuned for upcoming features rolling out soon
+
 ---
 
 
